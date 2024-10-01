@@ -1,0 +1,29 @@
+img {
+    height: 400px;
+    width: auto;
+    object-fit: cover;
+}
+
+.col {
+    overflow: hidden;
+}
+
+.img1 {
+    width: 600px;
+}
+
+.img2 {
+    width: 400px;
+}
+
+.img3 {
+    width: 500px;
+}
+
+.img4 {
+    width: 500px;
+}
+
+.img5 {
+    width: 500px;
+}
